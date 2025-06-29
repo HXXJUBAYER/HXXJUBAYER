@@ -1,66 +1,64 @@
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00A8E8&width=500&lines=Hi+there!+I'm+Jubayer+Ahmed👋;A+Passionate+Full-Stack+Developer;Loves+Coding+%26+Innovation" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0080ff,100:00ffe7&height=220&section=header&text=𝗝𝘂𝗯𝗮𝘆𝗲𝗿%20𝗔𝗵𝗺𝗲𝗱&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRrczRyeHZ6a3A2d2V3cWhkZ3ZqYjV4NnhkZjZmaDhoNzBpdmdldCZjdD1n/SUldq5zn04hHDk7b35/giphy.gif" width="50" /> About Me
-</h2>
-
+<!-- Typing Animation -->
 <p align="center">
-  Hello! I'm <b>Jubayer Ahmed</b>, a dedicated Full-Stack Developer from Bangladesh 🇧🇩.<br>
-  I love building modern, responsive and scalable web applications.<br>
-  Constantly learning new tech and pushing the limits! 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00d8ff&width=600&lines=Hi+there!+I'm+Jubayer+Ahmed👋;Full-Stack+Developer+|+Tech+Enthusiast;API+Builder+%26+Creative+Coder" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50" /> Tech Stack
-</h2>
+## 👨‍💻 About Me
+
+- 📍 Based in Bangladesh 🇧🇩  
+- 💻 Passionate about building scalable and efficient web applications  
+- 🌱 Currently exploring advanced API design, cloud deployment & AI integration  
+- 🔧 Skilled in JavaScript (Node.js), Express, MongoDB, and frontend technologies  
+- 🎯 Always learning, always improving — coding is my craft!
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="Vercel" height="40" src="https://seeklogo.com/images/V/vercel-logo-FF3DE70F28-seeklogo.com.png" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50" /> Featured Projects
-</h2>
+## 📂 Featured Projects
 
-<ul>
-  <li><b>Random Video Uploader API</b> - Upload and manage videos by categories with easy access and sharing.</li>
-  <li><b>Simsimi-like AI Chatbot</b> - Intelligent chat replies with learning capability via API.</li>
-  <li><b>Flag Guessing Game API</b> - Fun and interactive API for guessing country flags with smart suggestions.</li>
-  <li><b>Media Upload Portal</b> - Simple and fast upload for images/videos to Imgur and Google Drive.</li>
-</ul>
+| Project                      | Description                                   | Link                                     |
+| ---------------------------- | ---------------------------------------------|------------------------------------------|
+| 🎥 Random Video Uploader API | Upload & retrieve categorized videos easily  | [Live Demo](https://jubayer-upload-side-meker.onrender.com/) |
+| 🤖 Simsimi-like AI Chatbot   | Chatbot with learning replies via custom API | [Try Chatbot](https://jubayer-simsimi-api-404-xx.onrender.com/sim) |
+| 🇧🇩 Flag Guess Game API      | Interactive API for guessing country flags   | [API Link](https://jubayer-flag-apis.vercel.app/)               |
+| ☁️ Media Upload Portal        | Fast upload to Imgur & Google Drive           | [Portal](https://jubayer-upload-side-meker.onrender.com/)       |
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="50" /> GitHub Stats
-</h2>
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HXXJUBAYER&show_icons=true&theme=radical" alt="Jubayer's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HXXJUBAYER&theme=radical" alt="Jubayer's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HXXJUBAYER&show_icons=true&theme=nightowl&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HXXJUBAYER&theme=nightowl" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="50" /> Let's Connect
-</h2>
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:xxjubayerxx@gmail.com">
+  <a href="mailto:xxjubayerxx@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-xxjubayerxx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
@@ -69,6 +67,9 @@
   </a>
 </p>
 
-<p align="center" style="font-style: italic;">
-  <b>Keep coding, keep growing! 🚀</b>
+---
+
+<p align="center" style="font-style: italic; font-size: 14px; color: #666;">
+  “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+  <br><br>Thanks for visiting my profile! 🚀
 </p>
